@@ -1,6 +1,7 @@
 {
   "incoming": {
    "unit" : "minutes",
-   "price": 0.016
+   "price": 0.016,
+   "currency": "USD"
   }
 }
