@@ -3,5 +3,10 @@
    "unit" : "minutes",
    "price": 0.016,
    "currency": "USD"
-  }
+  },
+  "voice-note": {
+    "unit" : "minutes",
+    "price": 0.001,
+    "currency": "USD"
+  },
 }
